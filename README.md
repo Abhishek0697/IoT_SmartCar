@@ -1,5 +1,8 @@
 # Smart Car Features using Embedded Systems and Internet of Things
 
+### Read our paper on [arXiv](https://arxiv.org/pdf/2101.00496.pdf)
+
+
 *Idea-*\
 The project aims to develop a cost-efficient smart vehicle system focusing on accident detection, passenger safety, drunk driver prevention, and an interactive cabin monitoring system.
 
