@@ -7,7 +7,7 @@
 The project aims to develop a cost-efficient smart vehicle system focusing on accident detection, passenger safety, drunk driver prevention, and an interactive cabin monitoring system.
 
 
-![Block Diagram](https://github.com/Abhishek0697/IoT_SmartCar/blob/master/docs/Block%20Diagram.PNG)
+![Block Diagram](https://github.com/Abhishek0697/IoT_SmartCar/blob/master/docs/featured.png)
 
 
 *GPS Tracking*\
